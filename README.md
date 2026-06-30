@@ -43,3 +43,22 @@ Outside of coding, I enjoy playing table tennis, which has taught me discipline,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🌱 Currently Exploring
+
+- ⚛️ React.js
+- 🌐 Node.js & Express.js
+- 🍃 MongoDB
+- 🔄 REST APIs
+- 🚀 Building full-stack applications
+
+## 💭 Developer Philosophy
+
+> "I believe the best way to learn technology is by building practical projects. Every project teaches something new, whether it's writing cleaner code, solving real-world problems, or exploring unfamiliar technologies."
