@@ -9,6 +9,7 @@ Curious developer • Creative problem solver • Lifelong learner
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=3BA9FF&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;IoT+Enthusiast;Building+Practical+Solutions;Always+Learning+Something+New" />
 </p>
+
 ## 👩‍💻 About Me
 
 I'm a Computer Science student who enjoys turning ideas into real projects.
