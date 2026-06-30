@@ -76,3 +76,11 @@ Outside of coding, I enjoy playing table tennis, which has taught me discipline,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-nayak-srn)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyanayak.srn@gmail.com)
+
+## ✨ Thanks for Stopping By!
+
+Thanks for visiting my profile!
+
+I'm always excited to learn, collaborate, and build meaningful projects.
+
+⭐ Feel free to explore my repositories and connect with me.
