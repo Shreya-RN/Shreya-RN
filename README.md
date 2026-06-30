@@ -62,3 +62,17 @@ Outside of coding, I enjoy playing table tennis, which has taught me discipline,
 ## 💭 Developer Philosophy
 
 > "I believe the best way to learn technology is by building practical projects. Every project teaches something new, whether it's writing cleaner code, solving real-world problems, or exploring unfamiliar technologies."
+
+## 🎯 2026 Goals
+
+- 🚀 Build and deploy full-stack applications
+- 📚 Strengthen my React, Node.js and MongoDB skills
+- 🤖 Bring my Smart Home Automation idea to life
+- 🌍 Contribute consistently on GitHub
+- 💼 Grow as a software developer through real-world projects
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-nayak-srn)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyanayak.srn@gmail.com)
